@@ -1,0 +1,32 @@
+{
+  "treatments": [
+    {
+      "name": "Ear Health Check",
+      "price": 35
+    },
+    {
+      "name": "Microsuction — One Ear",
+      "price": 40
+    },
+    {
+      "name": "Microsuction — Both Ears",
+      "price": 70
+    },
+    {
+      "name": "Irrigation — One Ear",
+      "price": 40
+    },
+    {
+      "name": "Irrigation — Both Ears",
+      "price": 70
+    }
+  ],
+  "travel": {
+    "base_postcode": "SY3 6AG",
+    "included_miles": 10,
+    "extra_charge": 10
+  },
+  "discount": {
+    "percent": 10
+  }
+}
